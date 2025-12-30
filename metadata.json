@@ -1,0 +1,8 @@
+{
+  "name": "SessionCam",
+  "description": "A session-based video recording tool with an iOS native feel.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
